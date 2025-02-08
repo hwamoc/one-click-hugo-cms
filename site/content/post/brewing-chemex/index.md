@@ -1,9 +1,7 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
+title: 콩콩밥밥
+date: 2025-02-08T16:01:07.826Z
+description: 경수 광수 구내식당 콩밥
 image: blog-chemex.jpg
 ---
 
